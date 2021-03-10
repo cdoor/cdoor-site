@@ -30,6 +30,7 @@
 - [Referer访问限制](https://www.yuque.com/docs/share/3e54c6fe-e3e3-48ee-83f3-9b0652fd40f7#iEAnX)
 - [基于Context的访问限制](https://www.yuque.com/docs/share/3e54c6fe-e3e3-48ee-83f3-9b0652fd40f7#UamBc)
 - [JWT验证](https://www.yuque.com/docs/share/3e54c6fe-e3e3-48ee-83f3-9b0652fd40f7#PEKvY)
+- [JWT签发](https://www.yuque.com/docs/share/3e54c6fe-e3e3-48ee-83f3-9b0652fd40f7#be2j3)
 - [请求次数限制](https://www.yuque.com/docs/share/3e54c6fe-e3e3-48ee-83f3-9b0652fd40f7#apa3H)
 - [请求重定向](https://www.yuque.com/docs/share/3e54c6fe-e3e3-48ee-83f3-9b0652fd40f7#bxLZV)
 - [请求ID跟踪](https://www.yuque.com/docs/share/3e54c6fe-e3e3-48ee-83f3-9b0652fd40f7#AlzBB)
